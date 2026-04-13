@@ -1,11 +1,11 @@
 # 🛒 Landing Page E-commerce
 ##🚀 
-👉 Projeto online: https://wendson181.github.io/landing-page-ecommerce/
+👉 Projeto online: https://wendsoncardoso.github.io/landing-page-ecommerce/
 
 Landing page de e-commerce moderna e responsiva, focada em performance, usabilidade e experiência do usuário.
 
 ## 🔥 Demonstração
-👉  [Acessar projeto online](https://wendson181.github.io/landing-page-ecommerce/)
+👉  [Acessar projeto online](https://wendsoncardoso.github.io/landing-page-ecommerce/)
 
 ---
 
