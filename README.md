@@ -35,10 +35,10 @@ Landing page de e-commerce moderna e responsiva, focada em performance, usabilid
 
 ## 📂 Estrutura do projeto
 '''
-├── index.html        # Página principal
-├── css/              # Estilos
-├── js/               # Scripts
-├── imagens/          # Imagens do projeto
+├── [index.html](index.html)   # Página principal
+├── [css](style.css)           # Estilos
+├── [js](script.js)            # Scripts
+├── [imagens](imagens)         # Imagens do projeto
 '''
 ## 📌 Autor
 Desenvolvido por Wendson
