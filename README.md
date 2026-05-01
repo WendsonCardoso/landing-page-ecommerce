@@ -1,11 +1,14 @@
 # 🛒 Landing Page E-commerce
-##🚀 
+
+## 🚀  
 👉 Projeto online: https://wendsoncardoso.github.io/landing-page-ecommerce/
 
 Landing page de e-commerce moderna e responsiva, focada em performance, usabilidade e experiência do usuário.
 
-## 🔥 Demonstração
-👉  [Acessar projeto online](https://wendsoncardoso.github.io/landing-page-ecommerce/)
+---
+
+## 🔥 Demonstração  
+👉 [Acessar projeto online](https://wendsoncardoso.github.io/landing-page-ecommerce/)
 
 ---
 
@@ -17,28 +20,33 @@ Landing page de e-commerce moderna e responsiva, focada em performance, usabilid
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsividade (Mobile First)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsividade (Mobile First)  
 
 ---
 
 ## 🎯 Funcionalidades
 
-- Formulário com validação
-- Animações modernas
-- Design responsivo
-- Interface estilo e-commerce
+- Formulário com validação  
+- Animações modernas  
+- Design responsivo  
+- Interface estilo e-commerce  
 
 ---
 
 ## 📂 Estrutura do projeto
-'''
-├── [index.html](index.html)   # Página principal
-├── [css](style.css)           # Estilos
-├── [js](script.js)            # Scripts
-├── [imagens](imagens)         # Imagens do projeto
-'''
-## 📌 Autor
+
+```bash
+├── index.html        # Página principal
+├── css               # Estilos
+├── js                # Scripts
+├── imagens           # Imagens do projeto
+```
+
+---
+
+## 📌 Autor  
+
 Desenvolvido por Wendson
