@@ -14,7 +14,7 @@ Landing page de e-commerce moderna e responsiva, focada em performance, usabilid
 
 ## 📸 Preview
 
-![preview](./imagens/ecomerce2.jpg)
+![preview](./imagens/preview.png)
 
 ---
 
